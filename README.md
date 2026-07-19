@@ -139,7 +139,7 @@ This project was built to strengthen skills in:
 **Rahat Ahmed Khan**
 
 - GitHub: https://github.com/rahatahmed29
-- LinkedIn: *(Add your LinkedIn profile URL here)*
+- LinkedIn: *(www.linkedin.com/in/rahat-ahmed-khan/)*
 
 ---
 
