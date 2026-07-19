@@ -25,7 +25,6 @@ A modern, responsive Nike-inspired landing page built with **React**, **Vite**, 
 - Popular products section
 - Services section
 - Customer reviews section
-- Special offers section
 - Newsletter subscription section
 - Clean and reusable code structure
 - Fast development with Vite
